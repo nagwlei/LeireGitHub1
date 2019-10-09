@@ -4,3 +4,4 @@ Toronto
 Calgary
 Montreal
 Edmonton
+Quebec
